@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2cf4b6af62bc491f84cf27b68fc865ae)](https://www.codacy.com/app/pubudu08/parzival-app?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pubudu08/parzival-app&amp;utm_campaign=Badge_Grade)
 # ParzivalApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
