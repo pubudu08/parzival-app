@@ -2,6 +2,8 @@
 [![CircleCI](https://circleci.com/gh/pubudu08/parzival-app.svg?style=svg)](https://circleci.com/gh/pubudu08/parzival-app)
 # ParzivalApp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pubudu08/parzival-app.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
