@@ -14,6 +14,7 @@ export class RecipeService {
       'https://upload.wikimedia.org/wikipedia/commons/7/72/Schnitzel.JPG',
       [
         new Ingredient('Meat', 1),
+        new Ingredient('Meat', 2)
         new Ingredient('French Fries', 20)
       ]),
     new Recipe('Big Fat Burger',
